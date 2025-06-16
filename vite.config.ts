@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/neon-crypto_launch/", 
+  base: "/", 
   server: {
     host: "::",
     port: 8080,
